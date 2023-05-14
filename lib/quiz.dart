@@ -5,7 +5,7 @@ import './start_screen.dart';
 import 'package:quiz/results_screen.dart';
 
 class Quiz extends StatefulWidget {
-  Quiz();
+  const Quiz({super.key});
   @override
   State<Quiz> createState() {
     return _QuizState();
@@ -63,7 +63,7 @@ class _QuizState extends State<Quiz> {
       home: Scaffold(
         //backgroundColor: Colors.black,
         body: Container(
-          decoration: BoxDecoration(
+          decoration: const BoxDecoration(
             gradient: LinearGradient(
               colors: [
                 Color.fromARGB(255, 78, 13, 151),
