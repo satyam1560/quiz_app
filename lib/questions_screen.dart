@@ -53,6 +53,14 @@ class _QuestionScreenState extends State<QuestionScreen> {
                 },
               );
             })
+
+            // for (String answer in currentQuestion.getShuffledAnswers())
+            //   AnswerButton(
+            //     answerText: answer,
+            //     onTap: () {
+            //       answerQuestion(answer);
+            //     },
+            //   ),
           ],
         ),
       ),
