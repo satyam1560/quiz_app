@@ -3,14 +3,15 @@
 A new Flutter project.
 
 ## Getting Started
+![Google Pixel 3 XL Screenshot 0](https://github.com/satyam1560/quiz_app/assets/68018492/fae830be-ee92-40b7-8134-d154e4a73efc)
 
-This project is a starting point for a Flutter application.
+.
+.
 
-A few resources to get you started if this is your first Flutter project:
+![Google Pixel 3 XL Screenshot 1](https://github.com/satyam1560/quiz_app/assets/68018492/6a2171a0-111b-43be-ae38-56381aef4933)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+.
+.
+
+![Google Pixel 3 XL Screenshot 2](https://github.com/satyam1560/quiz_app/assets/68018492/a9451e68-d50c-4671-a086-50a520292f21)
